@@ -1,0 +1,6 @@
+numpy~=1.19.5
+feedparser~=6.0.10
+python-jenkins~=1.7.0
+requests~=2.28.1
+pandas~=1.4.3
+plotly~=5.10.0
